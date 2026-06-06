@@ -1,0 +1,17 @@
+admin
+administrator
+admincp
+panel
+backend
+dashboard
+cpanel
+manage
+manager
+sysadmin
+moderator
+webadmin
+controlpanel
+admin_area
+adm
+admin123
+admin1
